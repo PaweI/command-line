@@ -1,0 +1,2 @@
+Command for counting words, lines, all characters in file:
+wc filename
