@@ -1,0 +1,7 @@
+Command made for moving files from one directory to another:
+
+mv filename newdir/filename
+
+or renaming file in the same directory
+
+mv filename new-filename
