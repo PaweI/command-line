@@ -1,0 +1,3 @@
+Command for finding words in file:
+
+grep word filename
